@@ -9,3 +9,11 @@
 | per un pubblico ampio | Sviluppati per un singolo cliente in base alle sue specifiche |
 
 ### Il nuovo software può essere creato sviluppando nuovi programmi, configurando sistemi software generici o riutilizzando software esistente 
+
+
+
+
+
+---
+tags:
+#introduzione #software 
