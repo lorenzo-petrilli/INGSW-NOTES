@@ -9,6 +9,12 @@
 | ------------------------------------------------------------------------ | ------------------------------- | ------------------------------------------------------------ | --------------------------------------------------------- |
 | definizione di quello che il sistema deve fare e dei vincoli di sviluppo | produzione del sistema software | controllo che il software sia quello che il cliente richiede | cambio del software in risposta al cambio delle richieste |
 
+---
+Domande 
+9. Cos'è un processo software?
+
+10. Quali sono le quattro attività generiche che costituiscono tutti i processi software?
+
 
 ---
 tags:

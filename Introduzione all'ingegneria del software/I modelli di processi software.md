@@ -30,6 +30,14 @@ Modelli di processo generici:
 
 
 
+---
+Domande
+11. Cos'è un modello di processo software e come viene presentato?
+
+12. Quali sono alcuni esempi di prospettive utilizzate per rappresentare i modelli di processo?
+
+13. Indicare tre esempi di modelli di processo generici
+
 
 ---
 tags:

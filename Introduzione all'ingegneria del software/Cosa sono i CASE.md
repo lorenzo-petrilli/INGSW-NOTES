@@ -11,6 +11,11 @@ I sistemi CASE sono spesso utilizzati per supportare l'applicazione di **metodi*
 • Guida al processo, che indica quali attività seguire.
 
 
+### Tipologie
+
+| Upper-CASE                                             | Lower-CASE                                                     |
+| ------------------------------------------------------ | ------------------------------------------------------------- |
+| in supporto delle prime attività di requisiti e design in supporto delle attività di programmazione, debug e testing o  |
 
 
 
