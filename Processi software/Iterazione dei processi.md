@@ -1,0 +1,1 @@
+Sono concetti o tecniche che possono essere applicate 
